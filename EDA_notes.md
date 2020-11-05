@@ -120,6 +120,9 @@ further dropped:
 
 
 
-
-
-10.  (check google map)
+from sklearn.preprocessing import LabelEncoder
+gle = LabelEncoder()
+genre_labels = gle.fit_transform(vg_df['Genre'])
+genre_mappings = {index: label for index, label in 
+                  enumerate(gle.classes_)}
+genre_mappings
