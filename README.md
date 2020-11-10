@@ -2,7 +2,7 @@
 
 Resources:
 
-- [House Prices - all done via pipeline](https://towardsdatascience.com/custom-transformers-and-ml-data-pipelines-with-python-20ea2a7adb65) by Alexander Scarlat MD
+- [House Prices - all done via pipeline](https://www.kaggle.com/drscarlat/house-prices-all-done-via-pipeline/log) by Alexander Scarlat MD
 - https://medium.com/@gurupratap.matharu/end-to-end-machine-learning-project-on-predicting-housing-prices-using-regression-7ab7832840ab
 - http://georgeburry.com/house-price-prediction/
 - https://joomik.github.io/Housing/
