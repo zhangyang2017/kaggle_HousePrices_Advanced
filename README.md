@@ -9,15 +9,17 @@
 ## Problem definition <a id="0"></a>
 Train a regression model to predict house pricing. More details are described [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
 
+## Overview <a id="1"></a>
 
 
+
+
+## Afterthoughts <a id="3"></a>
 The most important thing I learned and applied in this project is using sklearn pipeline.
 
+## Resources <a id="4"></a>
 
-
-Resources:
-
-- [House Prices - all done via pipeline](https://www.kaggle.com/drscarlat/house-prices-all-done-via-pipeline/log) by Alexander Scarlat MD
+[1]: [House Prices - all done via pipeline](https://www.kaggle.com/drscarlat/house-prices-all-done-via-pipeline/log) by Alexander Scarlat MD
 - https://medium.com/@gurupratap.matharu/end-to-end-machine-learning-project-on-predicting-housing-prices-using-regression-7ab7832840ab
 - http://georgeburry.com/house-price-prediction/
 - https://joomik.github.io/Housing/
