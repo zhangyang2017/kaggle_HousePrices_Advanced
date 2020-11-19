@@ -7,7 +7,7 @@
 - [Resources that helped me learn](#4)
 
 ## Problem definition <a id="0"></a>
-Train a regression model to predict house pricing. More details are described [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
+Train a regression model to predict house pricing using historical data. More details are described [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
 
 ## Overview <a id="1"></a>
 
@@ -26,9 +26,8 @@ The most important thing I learned and applied in this project is using sklearn 
 
 1. [House Prices - all done via pipeline](https://www.kaggle.com/drscarlat/house-prices-all-done-via-pipeline/log) by Alexander Scarlat MD
 2. [End-to-end Machine Learning project on predicting housing prices using Regression](https://medium.com/@gurupratap.matharu/end-to-end-machine-learning-project-on-predicting-housing-prices-using-regression-7ab7832840ab) by Gurupratap S Matharu
-- http://georgeburry.com/house-price-prediction/
-- https://joomik.github.io/Housing/
-- http://www.mbel.io/2019/08/22/kaggle-house-prices-advanced-regression-techniques-ridge-regression/
+
+
 - [Strategies for working with discrete, categorical data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
 - [Feature Transformation for Machine Learning, a Beginners Guide](https://medium.com/vickdata/four-feature-types-and-how-to-transform-them-for-machine-learning-8693e1c24e80)
 - [Preprocessing data](https://scikit-learn.org/stable/modules/preprocessing.html)
