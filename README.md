@@ -1,4 +1,19 @@
-# kaggle_HousePrices_Advanced
+# Repo for the Kaggle "House Price Advanced"
+
+- [Problem definition](#0)
+- [Overview](#1)
+- [Workflow](#2)
+- [Afterthoughts](#3)
+- [Resources that helped me learn](#4)
+
+## Problem definition <a id="0"></a>
+Train a regression model to predict house pricing. More details are described [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
+
+
+
+The most important thing I learned and applied in this project is using sklearn pipeline.
+
+
 
 Resources:
 
