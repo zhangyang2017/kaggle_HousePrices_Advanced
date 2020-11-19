@@ -21,7 +21,7 @@ The most important thing I learned and applied in this project is using sklearn 
 
 ## Resources <a id="4"></a>
 
-[1]: [House Prices - all done via pipeline](https://www.kaggle.com/drscarlat/house-prices-all-done-via-pipeline/log) by Alexander Scarlat MD
+1. [House Prices - all done via pipeline](https://www.kaggle.com/drscarlat/house-prices-all-done-via-pipeline/log) by Alexander Scarlat MD
 - https://medium.com/@gurupratap.matharu/end-to-end-machine-learning-project-on-predicting-housing-prices-using-regression-7ab7832840ab
 - http://georgeburry.com/house-price-prediction/
 - https://joomik.github.io/Housing/
