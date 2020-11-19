@@ -1,18 +1,15 @@
 # Repo for the Kaggle "House Price Advanced"
 
 - [Problem definition](#0)
-- [Overview](#1)
-- [Workflow](#2)
+- [Overview & Workflow](#1)
 - [Afterthoughts](#3)
 - [Resources that helped me learn](#4)
 
 ## Problem definition <a id="0"></a>
 Train a regression model to predict house pricing using historical data. More details are described [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
 
-## Overview <a id="1"></a>
+## Overview & Workflow <a id="1"></a>
 For this project I decided to use regression models, specifically random forests.
-
-## Workflow <a id="2"></a>
 - EDA
   - using pipeline to handle missing values, transform numerical and categorical features, feature engineer, drop unwanted features:
   
