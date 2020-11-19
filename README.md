@@ -13,6 +13,7 @@ Train a regression model to predict house pricing. More details are described [h
 
 ## Workflow <a id="2"></a>
 - EDA
+  ![](https://github.com/zhangyang2017/kaggle_HousePrices_Advanced/blob/master/figures/preprocessing.jpg)
 - Model
 - Learning curve
 
