@@ -14,8 +14,7 @@ For this project I decided to use regression models, specifically random forests
   - using pipeline to handle missing values, transform numerical and categorical features, feature engineer, drop unwanted features:
   
   ![](https://github.com/zhangyang2017/kaggle_HousePrices_Advanced/blob/master/figures/preprocessing.jpg)
-- Model
-- Learning curve
+- Model & learning curve
 
 ## Afterthoughts <a id="3"></a>
 The most important thing I learned and applied in this project is using sklearn pipeline.
