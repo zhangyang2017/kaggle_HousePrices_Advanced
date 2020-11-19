@@ -26,10 +26,10 @@ The most important thing I learned and applied in this project is using sklearn 
 
 1. [House Prices - all done via pipeline](https://www.kaggle.com/drscarlat/house-prices-all-done-via-pipeline/log) by Alexander Scarlat MD
 2. [End-to-end Machine Learning project on predicting housing prices using Regression](https://medium.com/@gurupratap.matharu/end-to-end-machine-learning-project-on-predicting-housing-prices-using-regression-7ab7832840ab) by Gurupratap S Matharu
-
+3. [Feature Transformation for Machine Learning, a Beginners Guide](https://medium.com/vickdata/four-feature-types-and-how-to-transform-them-for-machine-learning-8693e1c24e80) by Rebecca Vickery
 
 - [Strategies for working with discrete, categorical data](https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63)
-- [Feature Transformation for Machine Learning, a Beginners Guide](https://medium.com/vickdata/four-feature-types-and-how-to-transform-them-for-machine-learning-8693e1c24e80)
+
 - [Preprocessing data](https://scikit-learn.org/stable/modules/preprocessing.html)
 - https://www.kaggle.com/fk0728/feature-engineering-with-sklearn-pipelines
 - https://wkirgsn.github.io/2018/02/15/pandas-pipelines/
