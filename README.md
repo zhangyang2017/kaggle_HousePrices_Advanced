@@ -15,6 +15,7 @@ For this project I decided to use regression models, specifically random forests
   
   ![](https://github.com/zhangyang2017/kaggle_HousePrices_Advanced/blob/master/figures/preprocessing.jpg)
 - Model & learning curve
+  ![](https://github.com/zhangyang2017/kaggle_HousePrices_Advanced/blob/master/figures/learningcurve.png)
 
 ## Afterthoughts <a id="3"></a>
 The most important thing I learned and applied in this project is using sklearn pipeline.
