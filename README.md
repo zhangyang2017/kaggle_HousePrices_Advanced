@@ -10,6 +10,7 @@
 Train a regression model to predict house pricing using historical data. More details are described [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
 
 ## Overview <a id="1"></a>
+For this project I decided to use regression models, specifically random forests.
 
 ## Workflow <a id="2"></a>
 - EDA
