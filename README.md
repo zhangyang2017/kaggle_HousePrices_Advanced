@@ -11,8 +11,10 @@ Train a regression model to predict house pricing. More details are described [h
 
 ## Overview <a id="1"></a>
 
-
-
+## Workflow <a id="2"></a>
+- EDA
+- Model
+- Learning curve
 
 ## Afterthoughts <a id="3"></a>
 The most important thing I learned and applied in this project is using sklearn pipeline.
